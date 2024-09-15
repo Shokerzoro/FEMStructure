@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1718200635 source:x:\fasionismyfrofession\codebase\femstructurev2\fem_data_source.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.h"
+	"LinkedListInterface.h"
+
+1718135822 x:\fasionismyfrofession\codebase\femstructurev2\linkedlistinterface.h
+	"Structs.h"
+
+1718135775 source:x:\fasionismyfrofession\codebase\femstructurev2\linkedlistsource.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.h"
+
+1718201157 source:x:\fasionismyfrofession\codebase\femstructurev2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FEM_data_interface.h"
+	"FEM_solver_interface.h"
+
+1718135930 x:\fasionismyfrofession\codebase\femstructurev2\fem_data_interface.h
+
+1716925774 x:\fasionismyfrofession\codebase\femstructurev2\fem_solver_interface.h
+
+1718200750 source:x:\fasionismyfrofession\codebase\femstructurev2\fem_solver.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Structs.h"
+	"FEM_data_interface.h"
+	"MyMathLib.h"
+
+1717865454 x:\fasionismyfrofession\codebase\femstructurev2\mymathlib.h
+
+1718050293 source:x:\fasionismyfrofession\codebase\femstructurev2\mymathlib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1718194006 x:\fasionismyfrofession\codebase\femstructurev2\structs.h
+
